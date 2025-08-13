@@ -60,8 +60,8 @@
 
  **3. Role Assignment**
  *A screenshot of the "Role assignments" screen showing your user assigned the custom role.*
- `![Role Assignment](images/role-assignment.png)`
+ `![Role Assignment](images/Virtual%20Machine%20Operator.png)
 
  **4. Microsoft Defender for Cloud - Secure Score**
  *A screenshot of the Defender for Cloud dashboard showing the Secure Score for your resources.*
- `![Defender for Cloud Score](images/defender-score.png)`
+ `![Defender for Cloud Score](images/Microsoft%20Defender%20for%20Cloud.png)
